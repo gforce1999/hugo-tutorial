@@ -1,0 +1,3 @@
+[submodule "themes/go-hugo-theme"]
+	path = themes/go-hugo-theme
+	url = git@github.com:gforce1999/ga-hugo-theme.git
